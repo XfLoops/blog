@@ -1,3 +1,3 @@
-# blog
+# comments
 
-This repo is especially open for blog comments.
+This repo is specially open for public comments.
